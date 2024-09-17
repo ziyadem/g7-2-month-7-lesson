@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+.divone{
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    margin: 60px;
+    color: white;
+    border: 10px dotted black;
+    /* outline: 10px solid black; */
+    outline-offset: 10px;
+    /* outline-width: 20px;
+    outline-color: red;
+    outline-style: dashed; */
+    /* background-color: red; */
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 2px rgb(53, 8, 90);
+}
+.yordamchiClass1{
+    background-image: url("../img/bg1.webp");
+    outline: 10px dashed black;
+}
+.yordamchiClass2{
+    background-image: url("../img/bg2.jpg");
+    outline: 10px dotted black;
+}
+.yordamchiClass3{
+    background-image: url("../img/bg3.jpg");
+    outline: 10px groove black;
+}
